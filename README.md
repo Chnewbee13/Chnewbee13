@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chnewbee13
 - 👀 I’m interested in coding and rock climbing
 - 🌱 I’m currently learning how to code
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I can move my eyes independently like a chameleon!
 
 <!---
